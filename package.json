@@ -1,6 +1,6 @@
 {
   "name": "uptempo-fe-lib",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "this is uptempo fe lib",
   "main": "index.js",
   "scripts": {
