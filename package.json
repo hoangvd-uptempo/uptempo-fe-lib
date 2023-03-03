@@ -1,0 +1,23 @@
+{
+  "name": "uptempo-fe-lib",
+  "version": "1.0.0",
+  "description": "this is uptempo fe lib",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/hoangvd-uptempo/uptempo-fe-lib.git"
+  },
+  "keywords": [
+    "fe",
+    "lib"
+  ],
+  "author": "hoangvd",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hoangvd-uptempo/uptempo-fe-lib/issues"
+  },
+  "homepage": "https://github.com/hoangvd-uptempo/uptempo-fe-lib#readme"
+}
